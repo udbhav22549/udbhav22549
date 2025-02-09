@@ -1,7 +1,7 @@
-# 🚀 [Your Name] – Machine Learning & Signal Processing Portfolio  
+# 🚀 Udbhav Yadav – Machine Learning & Signal Processing Portfolio  
 
-🔬 Specializing in **Machine Learning, Signal Processing, and Computational Modeling**  
-📍 [Your Location] | 📧 [Your Email] | 🔗 [LinkedIn](#) | 🐍 [GitHub](#)  
+🔬 Specializing in **Software Development, Machine Learning/Artificial Intelligence and Signal Processing**  
+📍 New Delhi | 📧 yadavudbhav@outlook.com | 🔗 [LinkedIn](#) | 🐍 [GitHub](#)  
 
 ## 🔹 About Me  
 I am a passionate data scientist with expertise in **machine learning, neural networks, and signal processing**. I have worked on **neuroimaging analysis, source separation (ICA/PCA), and environmental modeling**.  
