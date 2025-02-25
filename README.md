@@ -21,7 +21,7 @@ I'm an aspiring Software Development Engineer (SDE) with a strong background in 
 🔹 **Tech Stack:** Python, Scikit-learn, Tensorflow   
 <!-->🔗 [GitHub Repo](#) | [Report](#)  
 
-### 📌 [Stick Hero Game](#)
+### 📌 [Stick Hero Game](https://github.com/udbhav22549/StickHero)
 **Goal:** Develop StickHero game using object-oriented programming principles and create game screens using SceneBuilder
  tool.  
 🔹 **Tech Stack:** Java, JavaFX, SceneBuilder  
