@@ -2,8 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
-//# 🚀 Udbhav Yadav – Machine Learning & Signal Processing Portfolio  
-Udbhav Yadav
+# 🚀 Udbhav Yadav – Machine Learning & Signal Processing Portfolio  
 🔬 Specializing in **Software Development, Machine Learning/Artificial Intelligence and Signal Processing**  
 📍 New Delhi | 📧 yadavudbhav@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/udbhav-yadav/) | 🐍 [GitHub](https://github.com/udbhav22549)  
 
