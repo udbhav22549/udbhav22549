@@ -15,9 +15,16 @@ I'm an aspiring Software Development Engineer (SDE) with a strong background in 
 ## Featured Projects  
 
 ### [Machine Learning Model for Skin Cancer Detection](#)
-**Goal:** Develop and validat a machine learning model that enhances skin cancer detection and diagnosis accuracy and
+**Goal:** Develop and validate a machine learning model that enhances skin cancer detection and diagnosis accuracy and
  efficiency.  
 **Tech Stack:** Python, Scikit-learn, Tensorflow   
+
+
+### [BlogMan](#)
+**Goal:** Develop a fully functional blog web application with user authentication, post creation, editing, deletion, and
+ liking features.  
+**Tech Stack:** Python, Django, Bootstrap, SQLite, HTML, CSS   
+
 
 ### [Stick Hero Game](https://github.com/udbhav22549/StickHero)
 **Goal:** Develop StickHero game using object-oriented programming principles and create game screens using SceneBuilder
