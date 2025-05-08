@@ -2,36 +2,33 @@
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
-# 🚀 Udbhav Yadav – Software Development, Machine Learning & Signal Processing  
-🔬 Specializing in **Software Development, Machine Learning/Artificial Intelligence, and Signal Processing**  
+# Udbhav Yadav – Software Development, Machine Learning & Signal Processing  
+**Software Development, Machine Learning/Artificial Intelligence, and Signal Processing**  
 📍 New Delhi | 📧 yadavudbhav@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/udbhav-yadav/) | 🐍 [GitHub](https://github.com/udbhav22549)  
 
-## 🔹 About Me  
+## About Me  
 I'm an aspiring Software Development Engineer (SDE) with a strong background in software development, ML/AI, and signal processing. I specialize in designing efficient and scalable applications while leveraging cutting-edge technologies to solve complex challenges. Actively seeking opportunities to contribute as an SDE, I’m committed to learning, growing, and making a difference in the tech world.   
 
 ---
 
 
-## 🏆 Featured Projects  
+## Featured Projects  
 
-### 📌 [Machine Learning Model for Skin Cancer Detection](#)
+### [Machine Learning Model for Skin Cancer Detection](#)
 **Goal:** Develop and validat a machine learning model that enhances skin cancer detection and diagnosis accuracy and
  efficiency.  
-🔹 **Tech Stack:** Python, Scikit-learn, Tensorflow   
-<!-->🔗 [GitHub Repo](#) | [Report](#)  
+**Tech Stack:** Python, Scikit-learn, Tensorflow   
 
-### 📌 [Stick Hero Game](https://github.com/udbhav22549/StickHero)
+### [Stick Hero Game](https://github.com/udbhav22549/StickHero)
 **Goal:** Develop StickHero game using object-oriented programming principles and create game screens using SceneBuilder
  tool.  
-🔹 **Tech Stack:** Java, JavaFX, SceneBuilder  
-<!-->/*🔗 [GitHub Repo](#) | [Demo](#)  
+**Tech Stack:** Java, JavaFX, SceneBuilder  
+ 
 
-### 📌 [Custom Assembler and Simulator](#)
+### [Custom Assembler and Simulator](#)
 **Goal:** Create an assembler and simulator for a hypothetical Instruction Set Architecture (ISA) based on RISCV. The Assembler converts the Assembly Code into a Binary string, which is then utilized by the simulator to initialize
  register values efficiently.
-🔹 **Tech Stack:** Python  
-<!-->🔹 **Outcome:** Optimized model for high accuracy in fare classification.  
-<!-->🔗 [GitHub Repo](#) | [Report](#)  
+**Tech Stack:** Python  
 
 ---
 
