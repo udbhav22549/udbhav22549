@@ -14,13 +14,13 @@ I'm an aspiring Software Development Engineer (SDE) with a strong background in 
 
 ## Featured Projects  
 
-### [Machine Learning Model for Skin Cancer Detection](#)
+### [Machine Learning Model for Skin Cancer Detection](https://github.com/udbhav22549/ML_Project_Monsoon24)
 **Goal:** Develop and validate a machine learning model that enhances skin cancer detection and diagnosis accuracy and
  efficiency.  
 **Tech Stack:** Python, Scikit-learn, Tensorflow   
 
 
-### [BlogMan](#)
+### [BlogMan](https://github.com/udbhav22549/BlogMan)
 **Goal:** Develop a fully functional blog web application with user authentication, post creation, editing, deletion, and
  liking features.  
 **Tech Stack:** Python, Django, Bootstrap, SQLite, HTML, CSS   
